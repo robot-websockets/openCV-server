@@ -1,0 +1,22 @@
+{
+  "name": "opencv-server",
+  "version": "1.0.0",
+  "description": "This app reads from the pi zero's video feed it then\r processes the output and streams the output on its\r server on the default flask port of 5000.",
+  "main": "server.py",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robot-websockets/openCV-server.git"
+  },
+  "keywords": [
+    "opencv"
+  ],
+  "author": "Phil Stenning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robot-websockets/openCV-server/issues"
+  },
+  "homepage": "https://github.com/robot-websockets/openCV-server#readme"
+}
